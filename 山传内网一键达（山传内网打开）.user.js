@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         山传内网一键达（山传内网打开）
+// @name         山传内网一键达（山传代理打开）
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  !!登录山传内网后!!点击按钮将使用山西传媒学院内网打开当前网页
+// @description  !!登录山传代理后!!点击按钮将使用山西传媒学院代理打开当前网页
 // @match        *://*/*
 // @grant        none
 // @author       Doubt-Fact
